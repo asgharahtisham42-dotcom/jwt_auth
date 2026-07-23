@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 # Configure environment variables (.env)
 Ensure your .env file contains:
-generate SECRET_Key from terminal 
+ 
 SECRET_KEY=your-random-secret-key
 DATABASE_URL=postgresql://postgres:your_password@localhost:5432/Jwt_Login
 
