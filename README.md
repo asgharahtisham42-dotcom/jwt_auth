@@ -1,6 +1,5 @@
 JWT Auth App (Flask + PostgreSQL)
 Sign up, sign in, edit your profile, manage fellows (contacts linked to your account), track security audit logs, and manage roles — powered by Flask, PostgreSQL (Flask-SQLAlchemy), and PyJWT.
-
 1. Prerequisites (PostgreSQL Setup)
 Make sure you have PostgreSQL installed and running on localhost:5432.
 Create the database Jwt_Login in PostgreSQL:
